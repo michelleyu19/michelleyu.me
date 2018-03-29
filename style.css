@@ -1,0 +1,16 @@
+/* Barry Yang helped me with the CSS! */
+
+body {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+h2 {
+  color: blue;
+}
+
+#welcome {
+  color: green;
+}
